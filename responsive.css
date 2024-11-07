@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px){
+ .user{
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+ } 
+ .advanc b{
+    font-size: 35px;
+ } 
+ .advanc p{
+    font-size: 18px;
+    margin-top: 12px;
+ } 
+}
